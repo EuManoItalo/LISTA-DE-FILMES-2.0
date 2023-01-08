@@ -149,7 +149,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.mmfilmeshd.net/wp-content/uploads/2021/01/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg",django livre (Ano: 2012)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/DJANGOLDUB-BAIXO.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://vizer.tv/content/movies/poster/342/21412.webp",Rua Cloverfield, 10! (Ano: 2016)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://vizer.tv/content/movies/poster/342/21412.webp",Rua Cloverfield 10 (Ano: 2016)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/RuaCloverfield102016.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://vizer.tv/content/movies/poster/342/19746.webp",Garota Exemplar (Ano: 2014)

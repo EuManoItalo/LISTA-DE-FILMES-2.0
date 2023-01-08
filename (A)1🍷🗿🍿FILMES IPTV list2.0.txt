@@ -8,22 +8,22 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/pr
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",Titanic (Ano: 1997)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/TITANICDUB-BAIXO.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",Não! Olhe para Cima (Ano: 2021)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",Não Olhe para Cima! (Ano: 2021)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/NaoOlheParaCima2021.mp4
 
-#EXTINF:-1, Ad?o Negro3 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",Adão! Negro (Ano: 2022)
+#EXTINF:-1, Ad?o Negro3 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",Adão Negro! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AdaoNegro2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.mmfilmeshd.net/wp-content/uploads/2022/12/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",Pinoquio: Por Guillermo Del Toro (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/PinoquioPorGuillermoDelToro2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w780/21ldFAokKVjwzi1SHXoPb5gc7md.jpg",X A Marca Da Morte (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w780/21ldFAokKVjwzi1SHXoPb5gc7md.jpg",X: A Marca Da Morte (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/XAMarcaDaMorte2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",Enola Holmes 2 (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/EnolaHolmes22022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4UrPqi9qBhZFoVwtK443vviKz8B.jpg",Não! Não Olhe! (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4UrPqi9qBhZFoVwtK443vviKz8B.jpg",Não Não Olhe! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoNaoOlhe2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tOIxfCzjsV4temEPhjTVlVZsB6s.jpg",Trem-Bala (Ano: 2022)
@@ -38,7 +38,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Ter
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/izTIOynukDcN9dp7uPlwBjHr8f5.jpg",Emancipacao: Uma Historia de Liberdade (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/EmancipacaoUmaHistoriaDeLiberdade2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg",Nao Se Preocupe Querida (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg",Não Se Preocupe Querida! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoSePreocupeQuerida2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg",Orfa 2 (Ano: 2022)
@@ -79,17 +79,17 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes/Frozen.mp4
 
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",Avioes (Ano: 2013)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",Aviões! (Ano: 2013)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes/Avioes-1.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/ifZo7VdQ8WCjAh60LnwSkUf3TZE.jpg",Avioes 2: Herois do Fogo ao Resgate (Ano: 2014)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/ifZo7VdQ8WCjAh60LnwSkUf3TZE.jpg",Aviões 2!: Heróis do Fogo ao Resgate! (Ano: 2014)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes/Avioes-2.mp4
 
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",Os Incriveis (Ano: 2004)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",Os Incríveis! (Ano: 2004)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/OSINCRIVEISDUB-BAIXO.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/y3EEb7o6NxK0pl0WsOswCos663y.jpg",OS INCRIVEIS 2 (Ano: 2018)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/y3EEb7o6NxK0pl0WsOswCos663y.jpg",OS INCRÍVEIS 2! (Ano: 2018)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/osincriveis2new-dub-480p.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",Homem-aranha: sem volta para casa (Ano: 2021)
@@ -98,13 +98,13 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Hom
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/07/js8FIFJ2xyK7pcUQ0pvuX3mJldC.jpg",Lightyear (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Lightyear2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg",Animais Fant?sticos: Os Segredos de Dumbledore (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg",Animais Fantástico: Os Segredos de Dumbledore! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AnimaisFantasticosOsSegredosDeDumbledore2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/ywXcLxwAir7kj7mxDzxjOXDvl5u.jpg",BEAST (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AFera2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/18/16/57/5746772.jpg",Red: Crescer ? Uma Fera (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/21/11/18/16/57/5746772.jpg",Red: Crescer é Uma Fera! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/RedCrescerEUmaFera2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg",Visitas extraterrestres (Ano: 2022)
@@ -116,7 +116,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Top
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://lk21.day/wp-content/uploads/2022/05/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic 2 (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Sonic22022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",Jurassic World: Dom?nio (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg",Jurassic World: Domínio! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/JurassicWorldDominio2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/qNAPgepJ4NHNA74ThVsxQEOUceJ.jpg",Uncharted - Fora do Mapa (Ano: 2022)

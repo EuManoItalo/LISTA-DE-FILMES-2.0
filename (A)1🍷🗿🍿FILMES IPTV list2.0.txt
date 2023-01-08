@@ -24,7 +24,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/XAM
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",Enola Holmes 2 (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/EnolaHolmes22022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4UrPqi9qBhZFoVwtK443vviKz8B.jpg",N?o! N?o Olhe! (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4UrPqi9qBhZFoVwtK443vviKz8B.jpg",Não! Não Olhe! (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoNaoOlhe2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tOIxfCzjsV4temEPhjTVlVZsB6s.jpg",Trem-Bala (Ano: 2022)
@@ -36,17 +36,10 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OsC
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg",Terra dos Sonhos (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/TerraDosSonhos2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/izTIOynukDcN9dp7uPlwBjHr8f5.jpg",Emancipa??o: Uma Hist?ria de Liberdade (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/izTIOynukDcN9dp7uPlwBjHr8f5.jpg",Emancipacao: Uma Historia de Liberdade (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/EmancipacaoUmaHistoriaDeLiberdade2022.mp4
 
-#EXTINF:-1 tvg-name="No?" tvg-logo="https://image.tmdb.org/t/p/w500/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg" group-title="FILMES",No??
-http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoSePreocupeQuerida2022.mp4
-
-#EXTINF:-1 tvg-name="No?" tvg-logo="https://image.tmdb.org/t/p/w500/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg" group-title="FILMES",No??
-http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoSePreocupeQuerida2022.mp4
-
-
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" group-title="FILMES",N?o Se Preocupe, Querida (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg",Nao Se Preocupe Querida (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/NaoSePreocupeQuerida2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg",Orfa 2 (Ano: 2022)
@@ -58,7 +51,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/knfExByNW2jCwtmIuwYYxzPKpkm.jpg",The Old Guard (Ano: 2020)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/The.Old.Guard.2020.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg",Dois Irm茫os: Uma Jornada Fant?stica
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg",Dois Irmaos: Uma Jornada Fantastica
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/DOISIRMAOSDUB-BAIXO.mp4
 
 

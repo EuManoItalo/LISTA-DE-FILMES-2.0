@@ -2,7 +2,7 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
 #EXTM3U8
 #EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2016/08/projetox.jpg",projeto x (Ano: 2012)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2016/08/projetox.jpg",Projeto x (Ano: 2012)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/projeto.x.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",Titanic (Ano: 1997)

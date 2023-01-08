@@ -1,6 +1,5 @@
 #EXTM3U8
 #EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
-#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="http://4f.rs:80/images/699ef3d69981bdc911b445c582401a70.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
 #EXTM3U8
 #EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",projeto x (Ano: 2012)
@@ -9,10 +8,10 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/pr
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",Titanic (Ano: 1997)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/TITANICDUB-BAIXO.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",N?o Olhe para Cima (Ano: 2021)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg",Não! Olhe para Cima (Ano: 2021)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/NaoOlheParaCima2021.mp4
 
-#EXTINF:-1, Ad?o Negro3 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",Ad?o.Negro (Ano: 2022)
+#EXTINF:-1, Ad?o Negro3 (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",Adão! Negro (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AdaoNegro2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.mmfilmeshd.net/wp-content/uploads/2022/12/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",Pinoquio: Por Guillermo Del Toro (Ano: 2022)
@@ -51,7 +50,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/knfExByNW2jCwtmIuwYYxzPKpkm.jpg",The Old Guard (Ano: 2020)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/The.Old.Guard.2020.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg",Dois Irmaos: Uma Jornada Fantastica
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg",Dois Irmãos!: Uma Jornada Fantastica
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/DOISIRMAOSDUB-BAIXO.mp4
 
 
@@ -83,11 +82,11 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg",Avioes (Ano: 2013)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes/Avioes-1.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/ifZo7VdQ8WCjAh60LnwSkUf3TZE.jpg",Avioes 2: Her?is do Fogo ao Resgate (Ano: 2014)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/ifZo7VdQ8WCjAh60LnwSkUf3TZE.jpg",Avioes 2: Herois do Fogo ao Resgate (Ano: 2014)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/locfilmes/Avioes-2.mp4
 
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",Os Incr?veis (Ano: 2004)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg",Os Incriveis (Ano: 2004)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/OSINCRIVEISDUB-BAIXO.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/y3EEb7o6NxK0pl0WsOswCos663y.jpg",OS INCRIVEIS 2 (Ano: 2018)

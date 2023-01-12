@@ -170,8 +170,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/God
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://redecanais.la/imgs-videos/Filmes/As%20Aventuras%20de%20Tadeo%20e%20a%20T%C3%A1bua%20de%20Esmeralda.jpg",AS AVENTURAS DE TADEO (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AsAventurasDeTadeoEATabuaDeEsmeralda2022.mp4
 
-
-
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/GlassOnionUmMisterioKnivesOut2022.mp4
 
 
 

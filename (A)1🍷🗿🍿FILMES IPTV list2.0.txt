@@ -191,8 +191,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Juj
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/08/dmMyGIBsvUrfDNV8bWVEN8MidbG-200x300.jpg",Elvis (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Elvis2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
-
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/08/yRGDZI2lYTgUM3ifsoFASU5z77v-200x300.jpg",Minions 2: A Origem de Gru (SINOPSE: A continuação das aventuras dos Minions sempre em busca de um líder tirânico. Dessa vez eles ajudam um Gru ainda criança descobrindo como ser vilão. Ano:2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Minions22022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

@@ -5,11 +5,11 @@
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2016/08/projetox.jpg",Projeto x (Ano: 2012)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/projeto.x.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg", O troll da montanha (2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg", O troll da montanha (Ano: 2022)
 http://apolo1.shipblackpoint.tk/token:v11expire518706tp864/flm22/OTrollDaMontanha2022.mp4
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg", 365 Dias (2020)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg", 365 Dias (Ano: 2020)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/filmes/365.Dias.2020.mp4
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/10/68SX7S9lisehbuZLNX4CrVMxV1v-200x300.jpg", A Queda (Ano: 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/10/68SX7S9lisehbuZLNX4CrVMxV1v-200x300.jpg", A Queda (SINOPSE: A Queda Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular sem energia e sem pessoas por perto. Ano: 2022)
 http://apolo2.shipblackpoint.tk/token:v11expire518706tp864/flm22/AQueda2022.mp4
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/11/ml7Ypdeev7s1MK38dQN0OXoZ8p9-200x300.jpg", Mulher Rei (2022)
 http://apolo1.shipblackpoint.tk/token:v11expire518706tp864/flm22/AMulherRei2022.mp4

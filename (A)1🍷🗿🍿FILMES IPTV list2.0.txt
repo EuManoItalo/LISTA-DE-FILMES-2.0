@@ -173,12 +173,38 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AsA
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",Glass Onion: Um Mistério Knives Out. !(Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/GlassOnionUmMisterioKnivesOut2022.mp4
 
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg",O Menu (Ano: 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OMenu2022.mp4
 
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/yw6H4C64tjBWlyKFG1pzmq5zOQh.jpg",O Telefone Preto (Ano: 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OTelefonePreto2021.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/fIegCsrsGmxOV7tSFAQOdru9EuD.jpg",Carter (Ano: 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Carter2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
 
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
 
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

@@ -197,8 +197,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Min
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/08/gmY6yEyvLlkqrgqYNXPp1llPZeT-200x300.jpg",Dupla Jornada (Ano 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/DuplaJornada2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
-
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg",Mundo Estranho (Ano: 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/MundoEstranho2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

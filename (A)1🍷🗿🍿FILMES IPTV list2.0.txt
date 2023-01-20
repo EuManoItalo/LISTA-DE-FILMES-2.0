@@ -201,7 +201,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Dup
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg",Mundo Estranho (Ano: 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/MundoEstranho2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/rgNzvSagnlc32TuMEBa529QFIig.jpg",Poder Sem limites (Ano: 2012)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/d66KHiNTQU020qXJn3H5FyzXkDa.jpg",Poder Sem limites (Ano: 2012)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/tffilmes/316449189poder-sem-limites-2012.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",

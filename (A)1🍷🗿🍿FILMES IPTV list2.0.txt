@@ -8,6 +8,23 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/
 #EXTINF:-1, FILMES (Ano: 2014), tvg-logo="https://image.tmdb.org/t/p/w500/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg", Noé! (Ano: 2014)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/NOEDUB-BAIXO.mp4
 
+#EXTINF:-1, FILMES (Ano: 2013), tvg-logo="https://image.tmdb.org/t/p/w500/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg",Wolverine: Imortal (Ano 2013)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/wolverimortal-dub-720p.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg", O troll da montanha (Ano: 2022)
 http://apolo1.shipblackpoint.tk/token:v11expire518706tp864/flm22/OTrollDaMontanha2022.mp4
 

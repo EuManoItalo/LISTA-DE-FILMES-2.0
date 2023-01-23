@@ -203,6 +203,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AsA
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/GlassOnionUmMisterioKnivesOut2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg",O Menu (Ano: 2022)
+https://ip290627787.ahcdn.com/key=13wYPx16he6omnw9VUZ8Yg,s=,end=1674486374,ip=177.136,limit=1/state=Y85qsYgn/buffer=5000000:14742182,6427.6/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd5/443/2/302989362/BR/movies/omenu-dub-720p.mp4
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OMenu2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/yw6H4C64tjBWlyKFG1pzmq5zOQh.jpg",O Telefone Preto (Ano: 2022)

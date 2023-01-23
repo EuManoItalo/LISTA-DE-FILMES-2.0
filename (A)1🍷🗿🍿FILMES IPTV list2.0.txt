@@ -2,8 +2,10 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.1_streamer.1.r2"
 #EXTM3U8
 #EXTINF:-1, FILMES (Ano: 2017), tvg-logo="https://image.tmdb.org/t/p/w500/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",logan (SINOPSE:Logan ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier. Debilitado fisicamente e esgotado emocionalmente ele é procurado por Gabriela uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23. Ao mesmo tempo em que se recusa a voltar à ativa Logan é perseguido pelo mercenário Donald Pierce interessado na menina! Ano 2017)
-https://860700784.tapecontent.net/radosgw/RWjrOXZ6RKIxgb/8jcOhNzZYEc2HY_THowFWKIvD4KAH1nbqdE90lyvH6KdnNJsjPZTWyh0rYqACGIiOA2q8ndZLlWHUd6CHqU9dgcN_KFYazxWsFEwiBp8Ns05BfoLz_6AvsKwFlxQ9eIUQyHi3DNac9qzUquLtWRv5WSI5m9JoSJ7UkBpS8JK5cfVP3_-F1wCbxrrT1ekBsXNEdviL-VkaRpofg34RR3zvLCjL0a3K__6jM-dvosbhoQvRrKuzufgiRsD-0FIDpWkrnqonM3jEQE8nRagj88dEn3QarpSAjStrlszPqiKbz0E2F_Li2cLRC9M3jw/10.Logan.2017.720p.MP4.DUB.BaixarSeriesMP4.Top.mp4?stream=1
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/logan-dub-720p.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/11/4hl4vdf2QdKRMg5cU0CIO3eydg-200x300.jpg",A jaula (Ano: 2022)
+https://ip290627484.ahcdn.com/key=YpZotuhAdtPGv3dEAiSrtA,s=,end=1674451215,ip=177.136,limit=1/state=Y83gsYgn/buffer=5000000:17584180,4983.5/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd6/443/9/297011049/BR/movies/ajaula2022-dub-720p.mp4
 
 #EXTINF:-1, FILMES (Ano: 2014), tvg-logo="https://image.tmdb.org/t/p/w500/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg", Noé! (Ano: 2014)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/NOEDUB-BAIXO.mp4
@@ -232,6 +234,40 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/tffilmes/
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

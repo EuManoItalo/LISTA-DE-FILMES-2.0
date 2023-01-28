@@ -25,22 +25,22 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/Oxi
 #EXTINF:-1, FILMES (Ano: 2017), tvg-logo="https://www.filmezando.co/wp-content/uploads/2018/10/xq1Ugd62d23K2knRUx6xxuALTZB-185x278.jpg",Kimi No Na Wa (Ano - 2017)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/KimiNoNaWa2017.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",O Projeto Adam (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg",O Projeto Adam (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OProjetoAdam2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",MorteNoNilo. (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2022/04/dRMuS6S0NSqvkDxBbNqCjon95iY-200x300.jpg",MorteNoNilo. (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/MorteNoNilo2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Agente Das Sombras (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/qgW5iIe6QUn170omG6tdGS4BB9U.jpg",Agente Das Sombras (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AgenteDasSombras2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Morbius (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/2BTsd92vjFpRVkP1MlDC6RJzPk8.jpg",Morbius (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Morbius2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Luta Pela Fé A Historia Do Padre Stu (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/rwcoMHlrOrmfwsEKhnAuCw6NL6G.jpg",Luta Pela Fé A Historia Do Padre Stu (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/LutaPelaFeAHistoriaDoPadreStu2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Arremessando Alto (Ano - 2022)
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg",Arremessando Alto (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/ArremessandoAlto2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",

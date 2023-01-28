@@ -19,7 +19,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/
 #EXTINF:-1, FILMES (Ano: 2018), tvg-logo="https://www.filmezando.co/wp-content/uploads/2018/08/3572871.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",Verdade ou Desafio (Ano - 2018)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/verdadeoudesafio-dub-720p.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+#EXTINF:-1, FILMES (Ano: 2021), tvg-logo="https://www.filmezando.co/wp-content/uploads/2021/05/w7pdbDCMdtBq9W2amvUglhgmusW-200x300.jpg",Oxigenio. (Ano - 2021)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/Oxigenio2021.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

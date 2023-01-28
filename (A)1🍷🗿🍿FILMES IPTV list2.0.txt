@@ -25,11 +25,32 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/Oxi
 #EXTINF:-1, FILMES (Ano: 2017), tvg-logo="https://www.filmezando.co/wp-content/uploads/2018/10/xq1Ugd62d23K2knRUx6xxuALTZB-185x278.jpg",Kimi No Na Wa (Ano - 2017)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/KimiNoNaWa2017.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",O Projeto Adam (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OProjetoAdam2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",MorteNoNilo. (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/MorteNoNilo2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Agente Das Sombras (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AgenteDasSombras2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Morbius (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Morbius2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Luta Pela Fé A Historia Do Padre Stu (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/LutaPelaFeAHistoriaDoPadreStu2022.mp4
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",Arremessando Alto (Ano - 2022)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/ArremessandoAlto2022.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 
+
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
+
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg", O troll da montanha (Ano: 2022)
 http://apolo1.shipblackpoint.tk/token:v11expire518706tp864/flm22/OTrollDaMontanha2022.mp4

@@ -43,10 +43,10 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Lut
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg",Arremessando Alto (Ano - 2022)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/ArremessandoAlto2022.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/y5Xow79d6rI2o5NQtIQW9AzANkg.jpg",Spiderhead (Ano - 2022)
 
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/vsX9gj7t56ZlMYKNYccskeW5adT.jpg",Cidade Perdida (Ano - 2022)
 
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",

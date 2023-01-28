@@ -22,7 +22,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/
 #EXTINF:-1, FILMES (Ano: 2021), tvg-logo="https://www.filmezando.co/wp-content/uploads/2021/05/w7pdbDCMdtBq9W2amvUglhgmusW-200x300.jpg",Oxigenio. (Ano - 2021)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm21/Oxigenio2021.mp4
 
-#EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
+#EXTINF:-1, FILMES (Ano: 2017), tvg-logo="https://www.filmezando.co/wp-content/uploads/2018/10/xq1Ugd62d23K2knRUx6xxuALTZB-185x278.jpg",Kimi No Na Wa (Ano - 2017)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/KimiNoNaWa2017.mp4
 
 #EXTINF:-1, FILMES (Ano: 2022), tvg-logo="",
 

@@ -13,7 +13,7 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/
 #EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2013), tvg-logo="https://image.tmdb.org/t/p/w500/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg",Wolverine: Imortal (Ano 2013)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/mmfilmes/wolverimortal-dub-720p.mp4
 
-#EXTINF:-1, group-title="Lançamentos: 2022" FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2017/04/images-14-1-212x300.jpg",Corações de ferro! (Ano - 2014)
+#EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2022), tvg-logo="https://www.filmezando.co/wp-content/uploads/2017/04/images-14-1-212x300.jpg",Corações de ferro! (Ano - 2014)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/ncfilmes/CORACOESDEFERRODUB-BAIXO.mp4
 
 #EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2018), tvg-logo="https://www.filmezando.co/wp-content/uploads/2018/08/3572871.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",Verdade ou Desafio (Ano - 2018)

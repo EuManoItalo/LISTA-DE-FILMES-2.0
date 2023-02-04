@@ -227,7 +227,6 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/AsA
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/GlassOnionUmMisterioKnivesOut2022.mp4
 
 #EXTINF:-1, group-title="Lançamentos: 2022" FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg",O Menu (Ano: 2022)
-https://ip290627787.ahcdn.com/key=13wYPx16he6omnw9VUZ8Yg,s=,end=1674486374,ip=177.136,limit=1/state=Y85qsYgn/buffer=5000000:14742182,6427.6/speed=1000000/referer=none,.moduda.fun,.filmezando.io,.mmfilmes.io,.mykbj.com,.filmezando.co/reftag=269272069/ssd5/443/2/302989362/BR/movies/omenu-dub-720p.mp4
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/OMenu2022.mp4
 
 #EXTINF:-1, group-title="Lançamentos: 2021,2020,..." FILMES (Ano: 2022), tvg-logo="https://image.tmdb.org/t/p/w500/yw6H4C64tjBWlyKFG1pzmq5zOQh.jpg",O Telefone Preto (Ano: 2022)
@@ -257,8 +256,8 @@ http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/flm22/Mun
 #EXTINF:-1, group-title="Lançamentos: 2021,2020,..." FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/d66KHiNTQU020qXJn3H5FyzXkDa.jpg",Poder Sem limites (Ano: 2012)
 http://apolo.playhdlugo.online/token.mp4?e=/token:v11expire518706tp864/tffilmes/316449189poder-sem-limites-2012.mp4
 
-#EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2022), tvg-logo="",
-
+#EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2022), tvg-logo="https://www.themoviedb.org/t/p/original/lGiJe3J8tgsLzRWsrAB6kCYB5FJ.jpg",O Misterio Das Duas Irmas ( Ano: 2009)
+http://apolo.playhdlugo.online/token.mp4?e=/token:v8expire5726link11860/flm21/OMisterioDasDuasIrmas2009.mp4
 #EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2022), tvg-logo="",
 
 #EXTINF:-1, group-title="Adicionados Recentemente" FILMES (Ano: 2022), tvg-logo="",
